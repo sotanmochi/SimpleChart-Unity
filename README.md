@@ -1,5 +1,7 @@
 # SimpleChart-Unity
 
+<image src="Assets/SimpleChart/Images/BarChartSample.png" width="40%">
+
 ## Tested Environment
 - Unity 2019.4.17f1
 - Windows 10
